@@ -2,3 +2,9 @@
 ts.txt
 #virtual Env
 venv/
+
+#database
+db.sqlite3
+
+#migrasion
+blog/migrasion
